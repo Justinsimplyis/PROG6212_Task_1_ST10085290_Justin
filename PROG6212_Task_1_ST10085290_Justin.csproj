@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Task_1_Draft_</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DataLibrary">
+      <HintPath>..\DataLibrary\bin\Debug\net5.0\DataLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
